@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PedraPapelTesoura</string>
+    <string name="todo">TODO</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+    <string name="jogar">Jogar</string>
+    <string name="Computador">Computador\n</string>
+    <string name="Você">Você</string>
+</resources>
